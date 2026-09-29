@@ -10,20 +10,21 @@ The framework automates important ecommerce functionalities and uses reusable pa
 
 ---
 
--> Technologies Used
+# 🛠️ Technologies & Tools
 
-- **Java** – Programming language
-- **Selenium WebDriver** – Web UI automation
-- **TestNG** – Test execution and test management
-- **Apache POI** – Reading test data from Excel
-- **Page Object Model (POM)** – Framework design
-- **WebDriverManager** – Browser driver management
-- **Eclipse IDE** – Development environment
-- **Git & GitHub** – Version control
-
+- **Java**
+- **Selenium WebDriver**
+- **TestNG**
+- **Maven**
+- **Apache POI**
+- **WebDriverManager**
+- **Page Object Model (POM)**
+- **Eclipse IDE**
+- **Git**
+- **GitHub**
 ---
 
--> Application Under Test
+## 🌐 Application Under Test
 
 The application under test is an ecommerce website created using AI.
 
@@ -46,7 +47,7 @@ The website was used as the application under test for developing and executing 
 
 ---
 
--> Automation Framework
+# 🏗️ Automation Framework
 
 The framework follows the Page Object Model (POM) design pattern.
 
@@ -71,7 +72,7 @@ The framework also contains reusable utilities for common Selenium operations.
 
 ---
 
--> Project Structure
+# 📂 Project Structure
 
 ```text
 Kartly-AI-Website
