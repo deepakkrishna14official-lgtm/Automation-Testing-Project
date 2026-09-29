@@ -73,6 +73,7 @@ The framework also contains reusable utilities for common Selenium operations.
 
 -> Project Structure
 
+```text
 Kartly-AI-Website
 │
 ├── src
