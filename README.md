@@ -1,6 +1,6 @@
--> Ecommerce Website Automation Testing Project
+# Ecommerce Website Automation Testing Project
 
--> Project Overview
+## 📌 Project Overview
 
 This is a Selenium-based automation testing project developed for an ecommerce website that I created using AI.
 
